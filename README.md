@@ -8,5 +8,5 @@ I am i-bexx, a self-taught JS developer and I love working with the Minecraft Be
 
 What I am currently working on:
 - **Inside the Cage Map:** A complex survival project pushing the limits of the Script API and reactive interfaces.
-- Bypassing engine UI limitations to build better UX using JSON UI.
+- Crafting advanced and better UX using deeply modified JSON UI systems.
 - Developing fully server-side game loops and custom entity behaviors.
