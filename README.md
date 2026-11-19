@@ -1,12 +1,15 @@
-Hello there
+Hi, I'm i-bexx.
 
-I am i-bexx, a self-taught JS developer and I love working with the Minecraft Bedrock Script API and deeply modified JSON UI systems.
+I'm a Software Engineering student working with JavaScript, Minecraft Bedrock's Script API, and JSON UI.
 
 ---
 
-**Looking forward to working with Add-on development teams.**
+**Open to working with add-on development teams.**
 
-What I am currently working on:
-- **Inside the Cage Map:** A complex survival project pushing the limits of the Script API and reactive interfaces.
-- Crafting advanced and better UX using deeply modified JSON UI systems.
-- Developing fully server-side game loops and custom entity behaviors.
+What I'm currently working on:
+- **[Inside the Cage](https://github.com/i-bexx/inside-the-cage-addon):** A multiplayer survival game built with the Script API and JSON UI.
+- Building custom HUDs, menus, and dialogue screens with JSON UI.
+- Writing server-side game logic and custom entity behaviors.
+
+**Programming Languages:**  
+`JavaScript` · `Java` · `C`
